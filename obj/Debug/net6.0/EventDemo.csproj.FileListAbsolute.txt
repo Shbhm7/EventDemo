@@ -1,0 +1,15 @@
+C:\Users\Shubham.Pathania\Event\EventDemo\bin\Debug\net6.0\EventDemo.exe
+C:\Users\Shubham.Pathania\Event\EventDemo\bin\Debug\net6.0\EventDemo.deps.json
+C:\Users\Shubham.Pathania\Event\EventDemo\bin\Debug\net6.0\EventDemo.runtimeconfig.json
+C:\Users\Shubham.Pathania\Event\EventDemo\bin\Debug\net6.0\EventDemo.dll
+C:\Users\Shubham.Pathania\Event\EventDemo\bin\Debug\net6.0\EventDemo.pdb
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.csproj.AssemblyReference.cache
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.AssemblyInfo.cs
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.dll
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\refint\EventDemo.dll
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.pdb
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\EventDemo.genruntimeconfig.cache
+C:\Users\Shubham.Pathania\Event\EventDemo\obj\Debug\net6.0\ref\EventDemo.dll
